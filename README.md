@@ -83,5 +83,5 @@ Ne pas activer tant que les dépôts ne sont pas publics : les liens seraient mo
 
 #### Contact
 
-- **E-mail** — [rem342015@outlook.fr](mailto:rem342015@outlook.fr)
+- **E-mail** — [maissa.rem08@gmail.com](mailto:maissa.rem08@gmail.com)
 - **LinkedIn** — [remi-maissa](https://www.linkedin.com/in/remi-maissa/)
