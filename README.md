@@ -58,7 +58,8 @@ J'aime aussi lire de la fantasy, de la science-fiction ou des mangas. 📚
 <img alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&nbsp;&nbsp;
 <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;&nbsp;
 <img alt="GitHub Actions" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" />&nbsp;&nbsp;
-<img alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;
+<img alt="JetBrains Rider" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" />
 
 #### Moteurs de jeu
 
