@@ -67,15 +67,15 @@ Unreal Engine 5 (C++, Gameplay Ability System) · Unity 6 (C#, URP)
 
 ---
 
-<!--
-PROJECTS SECTION — uncomment repository by repository as they are published (phases 4 to 7).
-Do not enable while the repositories are still private: the links would be dead.
-
 #### Projects
 
-- **[anno117-designer](https://github.com/MaissaRemi/anno117-designer)** — Web tool to design and optimise building layouts for Anno 117: grid, road network, influence radius computation. TypeScript, tested rule engine.
+- **[anno117-designer](https://github.com/MaissaRemi/anno117-designer)** — Layout planner and optimiser for Anno 117, running on data extracted from the game's own archives. Reverse-engineered binary format, fixed-point economy solver, simulated annealing in a Web Worker. TypeScript · 167 tests · Docker · CI.
+- **[rem08-minigames](https://github.com/MaissaRemi/rem08-minigames)** — Minecraft server plugin bundling three team-based minigames, each with its own in-game options menu and disposable world. Java · Gradle · Spigot API.
+
+<!--
+Uncomment as the remaining repositories are published.
+
 - **[PropHunt](https://github.com/MaissaRemi/PropHunt)** — Multiplayer Unreal Engine 5 game built on a Lyra-style architecture: GameFeatures, Gameplay Ability System, CommonUI, Steam sessions.
-- **[randomBingo](https://github.com/MaissaRemi/randomBingo)** — Minecraft Paper plugin: random bingo, mini-games, team and resource management. Java / Gradle.
 - **[TFT_ANALYTICS](https://github.com/MaissaRemi/TODO)** — Post-game statistical analysis for Teamfight Tactics: extraction through the Riot API, processing and reporting. Python.
 - **[SYMFONY_ANGULAR_PROJECT](https://github.com/MaissaRemi/TODO)** — To be defined (phase 9).
 -->
